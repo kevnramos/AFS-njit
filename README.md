@@ -1,4 +1,4 @@
-#About
+# About
 Website Location: https://kevnramos.github.io/AFS-njit/
 
 [Click Here to view my website](https://kevnramos.github.io/AFS-njit/)
@@ -11,5 +11,5 @@ Website Location: https://kevnramos.github.io/AFS-njit/
 ##Steps
 1. Clone Repo
 
-- [ ] check mark
+- point
 
