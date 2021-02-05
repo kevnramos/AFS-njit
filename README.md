@@ -1,6 +1,15 @@
+#About
+Website Location: https://kevnramos.github.io/AFS-njit/
 
-#Markdown
+[Click Here to view my website](https://kevnramos.github.io/AFS-njit/)
+
+
+
+
+#Install instructions
+
 ##Steps
 1. Clone Repo
 
-- [ ] check
+- [ ] check mark
+
