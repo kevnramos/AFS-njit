@@ -6,9 +6,9 @@ Website Location: https://kevnramos.github.io/AFS-njit/
 
 
 
-#Install instructions
+# Install instructions
 
-##Steps
+## Steps
 1. Clone Repo
 
 - point
