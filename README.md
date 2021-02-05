@@ -3,4 +3,4 @@
 ##Steps
 1. Clone Repo
 
-- [ ] d
+- [ ] check
